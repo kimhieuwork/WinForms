@@ -16,16 +16,16 @@ Repo này chứa các bài tập, ví dụ và project nhỏ để thực hành 
 - Windows 10/11  
 
 ## 📂 Cấu trúc repo
-'''bash
+```bash
 WinForms-Practice/
 │-- Basics/ # Ví dụ cơ bản
 │-- Controls/ # Thực hành với các control
 │-- Database/ # WinForms + Database
 │-- Projects/ # Mini projects
 │-- README.md # Tài liệu này
-'''
+```
 
 ## 📖 Tài liệu tham khảo
 
-- [Microsoft Docs: Windows Forms] (https://learn.microsoft.com/vi-vn/dotnet/desktop/winforms/)
-- [C# Programming Guide] (https://learn.microsoft.com/vi-vn/dotnet/desktop/winforms/)
+- [Microsoft Docs: Windows Forms](https://learn.microsoft.com/vi-vn/dotnet/desktop/winforms/)
+- [C# Programming Guide](https://learn.microsoft.com/vi-vn/dotnet/desktop/winforms/)
