@@ -23,9 +23,10 @@ WinForms-Practice/
 │-- Database/ # WinForms + Database
 │-- Projects/ # Mini projects
 │-- README.md # Tài liệu này
+
 '''
 
 ## 📖 Tài liệu tham khảo
 
-[Microsoft Docs: Windows Forms]<https://learn.microsoft.com/vi-vn/dotnet/desktop/winforms/>
-[C# Programming Guide]<https://learn.microsoft.com/vi-vn/dotnet/desktop/winforms/>
+- [Microsoft Docs: Windows Forms] <https://learn.microsoft.com/vi-vn/dotnet/desktop/winforms/>
+- [C# Programming Guide] <https://learn.microsoft.com/vi-vn/dotnet/desktop/winforms/>
