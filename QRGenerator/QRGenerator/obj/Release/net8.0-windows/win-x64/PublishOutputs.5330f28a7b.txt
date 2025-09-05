@@ -1,0 +1,6 @@
+D:\Workspace\dotNET\WinForms\QRGenerator\QRGenerator\bin\Release\net8.0-windows\publish\win-x64\QRGenerator.exe
+D:\Workspace\dotNET\WinForms\QRGenerator\QRGenerator\bin\Release\net8.0-windows\publish\win-x64\QRGenerator.dll
+D:\Workspace\dotNET\WinForms\QRGenerator\QRGenerator\bin\Release\net8.0-windows\publish\win-x64\QRGenerator.deps.json
+D:\Workspace\dotNET\WinForms\QRGenerator\QRGenerator\bin\Release\net8.0-windows\publish\win-x64\QRGenerator.runtimeconfig.json
+D:\Workspace\dotNET\WinForms\QRGenerator\QRGenerator\bin\Release\net8.0-windows\publish\win-x64\QRGenerator.pdb
+D:\Workspace\dotNET\WinForms\QRGenerator\QRGenerator\bin\Release\net8.0-windows\publish\win-x64\QRCoder.dll

@@ -67,10 +67,24 @@ namespace QRGenerator
             {
                 saveFileDialog.Title = "Save QR Code";
                 saveFileDialog.Filter = "PNG Image|*.png|JPEG Image|*.jpg|Bitmap Image|*.bmp";
-                saveFileDialog.FileName = "QRCode.png";
-
+                saveFileDialog.FileName = "QRCode.png"; // goi y ban dau
+                saveFileDialog.OverwritePrompt = false;
+                //kiem tra xem file da ton tai chua, neu ton tai thi tang them 1
                 if (saveFileDialog.ShowDialog() == DialogResult.OK)
                 {
+                    string filePath = saveFileDialog.FileName;
+                    string dir = Path.GetDirectoryName(filePath);
+                    string fileName = Path.GetFileNameWithoutExtension(filePath);
+                    string ext = Path.GetExtension(filePath);
+
+                    int count = 1;
+                    string newPath = filePath;
+                    // neu file da ton tai thi ++
+                    while (File.Exists(newPath))
+                    {
+                        newPath = Path.Combine(dir, $"{fileName}({count}){ext}");
+                        count++;
+                    }
                     // Lay dinh dang file theo extension
                     System.Drawing.Imaging.ImageFormat format = System.Drawing.Imaging.ImageFormat.Png;
                     if (saveFileDialog.FileName.EndsWith(".jpg"))
@@ -78,9 +92,9 @@ namespace QRGenerator
                     else if (saveFileDialog.FileName.EndsWith(".bmp"))
                         format = System.Drawing.Imaging.ImageFormat.Bmp;
 
-                    pictureBox1.Image.Save(saveFileDialog.FileName, format);
+                    pictureBox1.Image.Save(newPath, format);
 
-                    MessageBox.Show("QR Code saved successfully!",
+                    MessageBox.Show($"QR Code saved successfully!\n{newPath}",
                                     "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 }
             }
