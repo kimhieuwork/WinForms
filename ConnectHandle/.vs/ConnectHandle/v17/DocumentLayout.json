@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{CBFDD9CC-3F4C-44A9-9A4D-43B413EC25C1}|ConnectHandle\\ConnectHandle.csproj|solutionrelative:connecthandle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBFDD9CC-3F4C-44A9-9A4D-43B413EC25C1}|ConnectHandle\\ConnectHandle.csproj|d:\\workspace\\dotnet\\winforms\\connecthandle\\connecthandle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CBFDD9CC-3F4C-44A9-9A4D-43B413EC25C1}|ConnectHandle\\ConnectHandle.csproj|D:\\Workspace\\dotNET\\WinForms\\ConnectHandle\\connecthandle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CBFDD9CC-3F4C-44A9-9A4D-43B413EC25C1}|ConnectHandle\\ConnectHandle.csproj|solutionrelative:connecthandle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -25,21 +25,20 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ConnectHandle",
+              "Title": "ConnectHandle.csproj",
               "DocumentMoniker": "D:\\Workspace\\dotNET\\WinForms\\ConnectHandle\\ConnectHandle\\ConnectHandle.csproj",
               "RelativeDocumentMoniker": "ConnectHandle\\ConnectHandle.csproj",
               "ToolTip": "D:\\Workspace\\dotNET\\WinForms\\ConnectHandle\\ConnectHandle\\ConnectHandle.csproj",
               "RelativeToolTip": "ConnectHandle\\ConnectHandle.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-04T03:23:15.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2025-09-04T03:23:15.036Z"
             },
             {
               "$type": "Document",
@@ -49,7 +48,7 @@
               "RelativeDocumentMoniker": "ConnectHandle\\Form1.cs",
               "ToolTip": "D:\\Workspace\\dotNET\\WinForms\\ConnectHandle\\ConnectHandle\\Form1.cs",
               "RelativeToolTip": "ConnectHandle\\Form1.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBoAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-04T03:12:57.586Z",
               "EditorCaption": ""
@@ -63,8 +62,7 @@
               "ToolTip": "D:\\Workspace\\dotNET\\WinForms\\ConnectHandle\\ConnectHandle\\Form1.cs [Design]",
               "RelativeToolTip": "ConnectHandle\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T03:07:25.499Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-09-04T03:07:25.499Z"
             }
           ]
         }
