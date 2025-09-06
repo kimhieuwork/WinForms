@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Workspace\\dotNET\\WinForms\\QRGenerator\\",
+  "WorkspaceRootPath": "E:\\KimHieu\\WinForms\\QRGenerator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3654D791-F720-49E6-9833-DAAC326E08DD}|QRGenerator\\QRGenerator.csproj|d:\\workspace\\dotnet\\winforms\\qrgenerator\\qrgenerator\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3654D791-F720-49E6-9833-DAAC326E08DD}|QRGenerator\\QRGenerator.csproj|solutionrelative:qrgenerator\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3654D791-F720-49E6-9833-DAAC326E08DD}|QRGenerator\\QRGenerator.csproj|D:\\Workspace\\dotNET\\WinForms\\QRGenerator\\qrgenerator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3654D791-F720-49E6-9833-DAAC326E08DD}|QRGenerator\\QRGenerator.csproj|e:\\kimhieu\\winforms\\qrgenerator\\qrgenerator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3654D791-F720-49E6-9833-DAAC326E08DD}|QRGenerator\\QRGenerator.csproj|solutionrelative:qrgenerator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3654D791-F720-49E6-9833-DAAC326E08DD}|QRGenerator\\QRGenerator.csproj|d:\\workspace\\dotnet\\winforms\\qrgenerator\\qrgenerator\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3654D791-F720-49E6-9833-DAAC326E08DD}|QRGenerator\\QRGenerator.csproj|solutionrelative:qrgenerator\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3654D791-F720-49E6-9833-DAAC326E08DD}|QRGenerator\\QRGenerator.csproj|e:\\kimhieu\\winforms\\qrgenerator\\qrgenerator\\qrgenerator.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3654D791-F720-49E6-9833-DAAC326E08DD}|QRGenerator\\QRGenerator.csproj|solutionrelative:qrgenerator\\qrgenerator.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3654D791-F720-49E6-9833-DAAC326E08DD}|QRGenerator\\QRGenerator.csproj|d:\\workspace\\dotnet\\winforms\\qrgenerator\\qrgenerator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3654D791-F720-49E6-9833-DAAC326E08DD}|QRGenerator\\QRGenerator.csproj|e:\\kimhieu\\winforms\\qrgenerator\\qrgenerator\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3654D791-F720-49E6-9833-DAAC326E08DD}|QRGenerator\\QRGenerator.csproj|solutionrelative:qrgenerator\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3654D791-F720-49E6-9833-DAAC326E08DD}|QRGenerator\\QRGenerator.csproj|e:\\kimhieu\\winforms\\qrgenerator\\qrgenerator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3654D791-F720-49E6-9833-DAAC326E08DD}|QRGenerator\\QRGenerator.csproj|solutionrelative:qrgenerator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3654D791-F720-49E6-9833-DAAC326E08DD}|QRGenerator\\QRGenerator.csproj|D:\\Workspace\\dotNET\\WinForms\\QRGenerator\\qrgenerator\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3654D791-F720-49E6-9833-DAAC326E08DD}|QRGenerator\\QRGenerator.csproj|solutionrelative:qrgenerator\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3654D791-F720-49E6-9833-DAAC326E08DD}|QRGenerator\\QRGenerator.csproj|e:\\kimhieu\\winforms\\qrgenerator\\qrgenerator\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3654D791-F720-49E6-9833-DAAC326E08DD}|QRGenerator\\QRGenerator.csproj|solutionrelative:qrgenerator\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,7 +29,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 216,
+          "DockedWidth": 200,
           "SelectedChildIndex": 1,
           "Children": [
             {
@@ -39,64 +39,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "D:\\Workspace\\dotNET\\WinForms\\QRGenerator\\QRGenerator\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "QRGenerator\\Form1.Designer.cs",
-              "ToolTip": "D:\\Workspace\\dotNET\\WinForms\\QRGenerator\\QRGenerator\\Form1.Designer.cs",
-              "RelativeToolTip": "QRGenerator\\Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\KimHieu\\WinForms\\QRGenerator\\QRGenerator\\Form1.cs",
+              "RelativeDocumentMoniker": "QRGenerator\\Form1.cs",
+              "ToolTip": "E:\\KimHieu\\WinForms\\QRGenerator\\QRGenerator\\Form1.cs [Design]",
+              "RelativeToolTip": "QRGenerator\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T04:05:00.839Z",
+              "WhenOpened": "2025-09-06T02:29:17.271Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QRGenerator",
+              "DocumentMoniker": "E:\\KimHieu\\WinForms\\QRGenerator\\QRGenerator\\QRGenerator.csproj",
+              "RelativeDocumentMoniker": "QRGenerator\\QRGenerator.csproj",
+              "ToolTip": "E:\\KimHieu\\WinForms\\QRGenerator\\QRGenerator\\QRGenerator.csproj",
+              "RelativeToolTip": "QRGenerator\\QRGenerator.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-06T02:27:19.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FolderProfile.pubxml",
+              "DocumentMoniker": "E:\\KimHieu\\WinForms\\QRGenerator\\QRGenerator\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeDocumentMoniker": "QRGenerator\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ToolTip": "E:\\KimHieu\\WinForms\\QRGenerator\\QRGenerator\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeToolTip": "QRGenerator\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-09-06T02:23:49.393Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Workspace\\dotNET\\WinForms\\QRGenerator\\QRGenerator\\Form1.cs",
+              "DocumentMoniker": "E:\\KimHieu\\WinForms\\QRGenerator\\QRGenerator\\Form1.cs",
               "RelativeDocumentMoniker": "QRGenerator\\Form1.cs",
-              "ToolTip": "D:\\Workspace\\dotNET\\WinForms\\QRGenerator\\QRGenerator\\Form1.cs",
+              "ToolTip": "E:\\KimHieu\\WinForms\\QRGenerator\\QRGenerator\\Form1.cs",
               "RelativeToolTip": "QRGenerator\\Form1.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAApwEAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAIA5wEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-05T03:03:00.695Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Workspace\\dotNET\\WinForms\\QRGenerator\\QRGenerator\\Form1.cs",
-              "RelativeDocumentMoniker": "QRGenerator\\Form1.cs",
-              "ToolTip": "D:\\Workspace\\dotNET\\WinForms\\QRGenerator\\QRGenerator\\Form1.cs [Design]",
-              "RelativeToolTip": "QRGenerator\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T03:02:53.919Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Form2.cs",
-              "DocumentMoniker": "D:\\Workspace\\dotNET\\WinForms\\QRGenerator\\QRGenerator\\Form2.cs",
+              "DocumentMoniker": "E:\\KimHieu\\WinForms\\QRGenerator\\QRGenerator\\Form2.cs",
               "RelativeDocumentMoniker": "QRGenerator\\Form2.cs",
-              "ToolTip": "D:\\Workspace\\dotNET\\WinForms\\QRGenerator\\QRGenerator\\Form2.cs",
+              "ToolTip": "E:\\KimHieu\\WinForms\\QRGenerator\\QRGenerator\\Form2.cs",
               "RelativeToolTip": "QRGenerator\\Form2.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAhwB4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T01:58:12.225Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form2.cs [Design]",
-              "DocumentMoniker": "D:\\Workspace\\dotNET\\WinForms\\QRGenerator\\QRGenerator\\Form2.cs",
-              "RelativeDocumentMoniker": "QRGenerator\\Form2.cs",
-              "ToolTip": "D:\\Workspace\\dotNET\\WinForms\\QRGenerator\\QRGenerator\\Form2.cs [Design]",
-              "RelativeToolTip": "QRGenerator\\Form2.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T10:31:45.74Z"
+              "WhenOpened": "2025-09-05T01:58:12.225Z"
             }
           ]
         }

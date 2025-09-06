@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "P85S5F1OMwM=",
+  "dgSpecHash": "Z/7DzL/W1Xs=",
   "success": true,
-  "projectFilePath": "D:\\Workspace\\dotNET\\WinForms\\QRGenerator\\QRGenerator\\QRGenerator.csproj",
+  "projectFilePath": "E:\\KimHieu\\WinForms\\QRGenerator\\QRGenerator\\QRGenerator.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
-    "C:\\Users\\ASUS\\.nuget\\packages\\qrcoder\\1.6.0\\qrcoder.1.6.0.nupkg.sha512",
-    "C:\\Users\\ASUS\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+    "C:\\Users\\1\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\qrcoder\\1.6.0\\qrcoder.1.6.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

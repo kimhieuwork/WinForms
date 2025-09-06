@@ -80,15 +80,16 @@
             // 
             // button1
             // 
-            button1.BackColor = Color.FromArgb(255, 224, 192);
+            button1.BackColor = SystemColors.MenuHighlight;
             button1.FlatAppearance.BorderColor = SystemColors.Control;
             button1.FlatAppearance.BorderSize = 2;
-            button1.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            button1.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            button1.ForeColor = Color.White;
             button1.Location = new Point(510, 107);
             button1.Name = "button1";
             button1.Size = new Size(184, 52);
             button1.TabIndex = 4;
-            button1.Text = "generate";
+            button1.Text = "Generate";
             button1.UseVisualStyleBackColor = false;
             button1.Click += button1_Click;
             // 
@@ -109,7 +110,7 @@
             button2.Name = "button2";
             button2.Size = new Size(121, 52);
             button2.TabIndex = 6;
-            button2.Text = "config";
+            button2.Text = "Config";
             button2.UseVisualStyleBackColor = true;
             button2.Click += button2_Click;
             // 
